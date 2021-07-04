@@ -57,4 +57,29 @@ p{
     color: orange;
 }
 
-
+.shado{
+    box-shadow: 10px 10px 40px grey;
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%; 
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+h2{
+    font-size: 40px;
+}
+.bg{
+    background-image: url(photos/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#border2{
+   border-left: 7px solid rgb(16, 117, 248);
+}
+#border1{
+    border-left: 7px solid rgb(250, 120, 68);
+ }
+ footer p{
+     text-align: center;
+ }
