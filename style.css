@@ -8,7 +8,7 @@ h1{
 #name{
     color: orange;
 }
-section{
+.flex{
     display: flex;
 }
 .half{
@@ -25,7 +25,7 @@ section{
     padding: 10px 40px;
     border-radius: 10px;
 }
-.s1{
+#s1{
     background-image: url(photos/top-banner.png);
     background-repeat: no-repeat;
 }
@@ -40,7 +40,7 @@ section{
     text-decoration: none;
     background-image: linear-gradient(red, yellow);
     color: white;font-weight: 700;
-    padding: 10px 40px;
+    padding: 10px 30px;
     border-radius: 10px;
 }
 #s2{
@@ -52,3 +52,9 @@ section{
 p{
     text-align: justify;
 }
+
+.lasth{
+    color: orange;
+}
+
+
